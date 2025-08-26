@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jahnaviguturi/Leetcode/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
