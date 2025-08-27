@@ -29,6 +29,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/jahnaviguturi/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -44,4 +45,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jahnaviguturi/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
