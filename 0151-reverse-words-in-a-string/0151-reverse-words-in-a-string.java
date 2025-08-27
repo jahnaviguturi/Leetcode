@@ -1,7 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
-        s=s.trim().replaceAll("\\s{2,}"," ");
-        String[] arr=s.split(" ");
+        String[] arr=s.trim().split("\\s+");
         String res="";
         for(int i=arr.length-1;i>=0;i--){
             res+=arr[i]+" ";
