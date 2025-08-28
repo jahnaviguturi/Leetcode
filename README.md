@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Recursion
