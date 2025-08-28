@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Recursion
 |  |
