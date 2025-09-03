@@ -77,4 +77,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jahnaviguturi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
