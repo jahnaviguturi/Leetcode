@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3830-find-closest-person](https://github.com/jahnaviguturi/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
