@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0263-ugly-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
