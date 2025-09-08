@@ -6,6 +6,7 @@ class Solution {
             if(!String.valueOf(i).contains("0")&&!String.valueOf(j).contains("0")){
                 res[0]=i;
                 res[1]=j;
+                break;
             }
             
         }
