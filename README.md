@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
+| [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -117,4 +118,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
