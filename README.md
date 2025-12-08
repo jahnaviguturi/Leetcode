@@ -59,6 +59,7 @@
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3830-find-closest-person](https://github.com/jahnaviguturi/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -141,4 +142,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/jahnaviguturi/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jahnaviguturi/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
