@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -68,6 +69,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3830-find-closest-person](https://github.com/jahnaviguturi/Leetcode/tree/master/3830-find-closest-person) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
