@@ -20,6 +20,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -174,4 +175,13 @@
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
