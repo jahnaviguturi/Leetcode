@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
+| [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -188,6 +189,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -197,4 +199,16 @@
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
