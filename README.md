@@ -23,6 +23,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jahnaviguturi/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jahnaviguturi/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -99,6 +100,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -170,6 +172,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jahnaviguturi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Database
 |  |
 | ------- |
