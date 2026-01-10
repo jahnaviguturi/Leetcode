@@ -74,6 +74,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/jahnaviguturi/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -218,6 +219,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jahnaviguturi/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
