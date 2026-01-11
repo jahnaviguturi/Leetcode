@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
@@ -219,6 +220,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -271,6 +273,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jahnaviguturi/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -285,4 +288,12 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
