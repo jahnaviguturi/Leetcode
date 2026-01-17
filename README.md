@@ -34,6 +34,7 @@
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jahnaviguturi/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -111,6 +112,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3830-find-closest-person](https://github.com/jahnaviguturi/Leetcode/tree/master/3830-find-closest-person) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/jahnaviguturi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
