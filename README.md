@@ -56,6 +56,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -87,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/jahnaviguturi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/jahnaviguturi/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
