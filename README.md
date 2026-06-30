@@ -111,6 +111,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jahnaviguturi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
