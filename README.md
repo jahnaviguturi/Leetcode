@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jahnaviguturi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviguturi/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/jahnaviguturi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/jahnaviguturi/Leetcode/tree/master/0058-length-of-last-word) |
@@ -157,6 +158,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jahnaviguturi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jahnaviguturi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
@@ -253,6 +255,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jahnaviguturi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
