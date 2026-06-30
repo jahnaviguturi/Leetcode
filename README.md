@@ -30,6 +30,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jahnaviguturi/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/jahnaviguturi/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jahnaviguturi/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/jahnaviguturi/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jahnaviguturi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
