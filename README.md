@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -293,6 +294,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/jahnaviguturi/Leetcode/tree/master/1895-largest-magic-square) |
