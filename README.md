@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/jahnaviguturi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jahnaviguturi/Leetcode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -294,10 +296,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
