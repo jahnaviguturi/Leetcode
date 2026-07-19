@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -67,6 +68,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jahnaviguturi/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
