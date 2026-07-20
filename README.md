@@ -23,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
