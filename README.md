@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0136-single-number) |
@@ -231,6 +232,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Design
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jahnaviguturi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
