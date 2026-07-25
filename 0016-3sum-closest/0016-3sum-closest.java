@@ -13,7 +13,8 @@ class Solution {
                     closestSum = currentSum;
                 } else if (currentSum == target) {
                     return target;
-                } else if (currentSum < target) {
+                }
+                if (currentSum < target) {
                     left++;
                 } else {
                     right--;
