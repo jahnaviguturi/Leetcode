@@ -29,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -170,6 +171,7 @@
 | [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -195,6 +197,7 @@
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jahnaviguturi/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Recursion
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jahnaviguturi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1975-maximum-matrix-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
