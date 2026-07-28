@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/jahnaviguturi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -243,6 +244,7 @@
 | [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0152-maximum-product-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jahnaviguturi/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -407,4 +410,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
