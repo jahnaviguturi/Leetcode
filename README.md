@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -388,11 +389,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Geometry
 |  |
 | ------- |
