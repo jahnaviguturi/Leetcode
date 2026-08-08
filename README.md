@@ -253,6 +253,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
 | [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
@@ -395,6 +396,7 @@
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahnaviguturi/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -402,6 +404,7 @@
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahnaviguturi/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
 ## Geometry
 |  |
 | ------- |
@@ -437,4 +440,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jahnaviguturi/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
