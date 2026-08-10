@@ -159,6 +159,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jahnaviguturi/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
 ## Linked List
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Brainteaser
 |  |
@@ -450,4 +453,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
