@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jahnaviguturi/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
@@ -384,6 +385,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/0046-permutations) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Tree
 |  |
