@@ -58,6 +58,7 @@
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/jahnaviguturi/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jahnaviguturi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -93,6 +94,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
@@ -342,6 +344,7 @@
 | [0239-sliding-window-maximum](https://github.com/jahnaviguturi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnaviguturi/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
