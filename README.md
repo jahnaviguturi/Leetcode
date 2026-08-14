@@ -97,6 +97,7 @@
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jahnaviguturi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -140,6 +141,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jahnaviguturi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jahnaviguturi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -347,6 +349,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnaviguturi/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/jahnaviguturi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
