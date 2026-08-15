@@ -72,6 +72,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnaviguturi/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnaviguturi/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
