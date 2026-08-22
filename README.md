@@ -172,6 +172,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jahnaviguturi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jahnaviguturi/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/jahnaviguturi/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
