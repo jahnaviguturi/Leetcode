@@ -74,6 +74,7 @@
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnaviguturi/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jahnaviguturi/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jahnaviguturi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3678-design-task-manager](https://github.com/jahnaviguturi/Leetcode/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jahnaviguturi/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
