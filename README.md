@@ -91,6 +91,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jahnaviguturi/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@
 | [0205-isomorphic-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jahnaviguturi/Leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jahnaviguturi/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -265,6 +267,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jahnaviguturi/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
