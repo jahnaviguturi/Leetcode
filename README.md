@@ -53,6 +53,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jahnaviguturi/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/jahnaviguturi/Leetcode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jahnaviguturi/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jahnaviguturi/Leetcode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jahnaviguturi/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/jahnaviguturi/Leetcode/tree/master/3433-count-mentions-per-user) |
