@@ -100,6 +100,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jahnaviguturi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/jahnaviguturi/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jahnaviguturi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jahnaviguturi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -148,6 +149,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/jahnaviguturi/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jahnaviguturi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jahnaviguturi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3606-coupon-code-validator](https://github.com/jahnaviguturi/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -190,6 +192,7 @@
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [2351-first-letter-to-appear-twice](https://github.com/jahnaviguturi/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnaviguturi/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -268,6 +271,7 @@
 | [0169-majority-element](https://github.com/jahnaviguturi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/jahnaviguturi/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jahnaviguturi/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
