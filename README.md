@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
@@ -92,6 +93,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jahnaviguturi/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0525-contiguous-array) |
@@ -118,6 +120,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnaviguturi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/jahnaviguturi/Leetcode/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -204,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/jahnaviguturi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -228,6 +232,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jahnaviguturi/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
