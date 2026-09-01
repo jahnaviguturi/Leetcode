@@ -177,6 +177,7 @@
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jahnaviguturi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jahnaviguturi/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jahnaviguturi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/jahnaviguturi/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -267,6 +268,7 @@
 | [0203-remove-linked-list-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
 | ------- |
