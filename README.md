@@ -82,6 +82,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/jahnaviguturi/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jahnaviguturi/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/jahnaviguturi/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -402,6 +403,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/jahnaviguturi/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jahnaviguturi/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3903-smallest-stable-index-i](https://github.com/jahnaviguturi/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
