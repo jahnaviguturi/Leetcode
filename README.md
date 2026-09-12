@@ -179,6 +179,7 @@
 | [0258-add-digits](https://github.com/jahnaviguturi/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/jahnaviguturi/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jahnaviguturi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -252,6 +253,7 @@
 | [0203-remove-linked-list-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/jahnaviguturi/Leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
