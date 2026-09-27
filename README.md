@@ -161,6 +161,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/jahnaviguturi/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jahnaviguturi/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -460,6 +461,7 @@
 | [0739-daily-temperatures](https://github.com/jahnaviguturi/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jahnaviguturi/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnaviguturi/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -516,4 +518,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/jahnaviguturi/Leetcode/tree/master/1952-three-divisors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
