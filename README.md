@@ -187,6 +187,7 @@
 | [0268-missing-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jahnaviguturi/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jahnaviguturi/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -260,6 +261,7 @@
 | [0206-reverse-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jahnaviguturi/Leetcode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/jahnaviguturi/Leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jahnaviguturi/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -525,4 +528,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
