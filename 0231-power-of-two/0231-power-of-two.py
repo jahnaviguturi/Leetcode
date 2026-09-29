@@ -1,10 +1,14 @@
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
+        # base case
         if n <= 0:
             return False
+        if n == 1:
+            return True
 
-        while n%2 == 0:
-            n//=2
+        if n%2 != 0:
+            return False
 
-        return n==1
+        # Recursive case
+        return self.isPowerOfTwo(n//2)
         
