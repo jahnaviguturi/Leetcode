@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/jahnaviguturi/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -273,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jahnaviguturi/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/jahnaviguturi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jahnaviguturi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
