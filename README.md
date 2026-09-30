@@ -43,6 +43,7 @@
 | [0739-daily-temperatures](https://github.com/jahnaviguturi/Leetcode/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/jahnaviguturi/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/jahnaviguturi/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -226,6 +227,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/jahnaviguturi/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2054-two-best-non-overlapping-events](https://github.com/jahnaviguturi/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/jahnaviguturi/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -255,6 +257,7 @@
 | [0443-string-compression](https://github.com/jahnaviguturi/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnaviguturi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/jahnaviguturi/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
