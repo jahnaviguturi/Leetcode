@@ -265,6 +265,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviguturi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviguturi/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jahnaviguturi/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jahnaviguturi/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jahnaviguturi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -282,6 +283,7 @@
 | [0203-remove-linked-list-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jahnaviguturi/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jahnaviguturi/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/jahnaviguturi/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -307,6 +309,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/jahnaviguturi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jahnaviguturi/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -491,6 +494,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahnaviguturi/Leetcode/tree/master/0739-daily-temperatures) |
