@@ -413,6 +413,7 @@
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -462,6 +463,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jahnaviguturi/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -497,6 +499,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
