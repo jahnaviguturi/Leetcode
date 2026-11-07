@@ -61,4 +61,6 @@ class Solution:
             if len(level) > 0:
                 ans.append(level)
 
-        return ans[::-1]
+        ans.reverse()
+
+        return ans
