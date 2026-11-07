@@ -414,6 +414,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -496,6 +498,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jahnaviguturi/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jahnaviguturi/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -505,6 +508,7 @@
 | [0020-valid-parentheses](https://github.com/jahnaviguturi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jahnaviguturi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/jahnaviguturi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jahnaviguturi/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0503-next-greater-element-ii) |
