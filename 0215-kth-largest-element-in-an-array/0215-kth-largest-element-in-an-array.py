@@ -9,4 +9,4 @@ class Solution:
             if len(h) > k:
                 heapq.heappop(h)
 
-        return h[0]
+        return heapq.nlargest(k, h)[-1]
