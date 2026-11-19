@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/jahnaviguturi/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/jahnaviguturi/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/jahnaviguturi/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jahnaviguturi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -367,6 +368,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jahnaviguturi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/jahnaviguturi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/jahnaviguturi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -400,6 +402,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jahnaviguturi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jahnaviguturi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jahnaviguturi/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jahnaviguturi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahnaviguturi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnaviguturi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
